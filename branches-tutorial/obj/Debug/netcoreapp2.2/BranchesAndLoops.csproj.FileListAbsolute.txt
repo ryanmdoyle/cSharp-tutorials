@@ -1,0 +1,11 @@
+C:\Users\rdoyle\documents\repos\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.deps.json
+C:\Users\rdoyle\documents\repos\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.runtimeconfig.json
+C:\Users\rdoyle\documents\repos\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.runtimeconfig.dev.json
+C:\Users\rdoyle\documents\repos\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.dll
+C:\Users\rdoyle\documents\repos\branches-tutorial\bin\Debug\netcoreapp2.2\BranchesAndLoops.pdb
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.csprojAssemblyReference.cache
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.AssemblyInfoInputs.cache
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.AssemblyInfo.cs
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.dll
+C:\Users\rdoyle\documents\repos\branches-tutorial\obj\Debug\netcoreapp2.2\BranchesAndLoops.pdb
